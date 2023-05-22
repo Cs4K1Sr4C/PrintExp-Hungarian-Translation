@@ -35,5 +35,5 @@ This translation of the PrintExp DTF Printer Software is licensed under the [MIT
 ---
 
 <p align="center">
-  Made with ❤️ by [Cs4K1Sr4C](https://github.com/CsK1Sr4C)
+  Made with ❤️ by <a href="https://github.com/CsK1Sr4C">Cs4K1Sr4C</a>
 </p>
